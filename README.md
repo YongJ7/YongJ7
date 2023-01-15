@@ -5,7 +5,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=beauboy)](https://solved.ac/beauboy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YongJ7)]()
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YongJ7&theme=onedark)
 
 <!--
 **YongJ7/YongJ7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

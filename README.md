@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=YongJ7 alt=YongJ7 /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=YongJ7&show_icons=true&include_all_commits=true)](https://github.com/YongJ7/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=YongJ7&show_icons=true&include_all_commits=true)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YongJ7&layout=compact)](https://github.com/YongJ7/github-readme-stats)
